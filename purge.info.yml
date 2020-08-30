@@ -1,0 +1,11 @@
+name: Purge
+type: theme
+core_version_requirement: ^8.8 || ^9
+base theme: false
+libraries:
+  - purge/global-styling
+regions:
+  header: Header
+  primary_menu: 'Primary menu'
+  sidebar: Sidebar
+  content: Content
